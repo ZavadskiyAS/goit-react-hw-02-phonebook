@@ -18,5 +18,4 @@ const ContactsList = ({ contacts, deleteContact }) => {
     return <h3>Add your first contact!</h3>;
   }
 };
-
 export default ContactsList;

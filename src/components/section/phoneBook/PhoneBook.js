@@ -54,5 +54,4 @@ class PhoneBook extends Component {
     );
   }
 }
-
 export default PhoneBook;

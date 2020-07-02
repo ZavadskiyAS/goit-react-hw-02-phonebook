@@ -8,5 +8,4 @@ const ContactsItem = ({ contact: { id, name, number }, deleteContact }) => (
     </button>
   </li>
 );
-
 export default ContactsItem;
